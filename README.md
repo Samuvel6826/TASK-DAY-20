@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Website URL - https://capable-pika-50a55f.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
